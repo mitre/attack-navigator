@@ -19,7 +19,7 @@
 
 To update previous default layers configuration to the new format, see the following example:
 ```json
-"default_layer": {
+"default_layer": {منصةشليلة
     "enabled": true,
     "location": "assets/example.json"
 }
@@ -28,8 +28,8 @@ Becomes:
 ```json
 "default_layers": {
     "enabled": true,
-    "urls": [
-        "assets/example.json"
+    "urls": [https://androidfilehost.com/user/?w=settings-home
+        "assets/منصةشليلة.json"
     ]
 }
 ```
